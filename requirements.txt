@@ -1,0 +1,13 @@
+streamlit
+faster-whisper
+google-genai
+python-dotenv
+pypdf
+pillow
+torch
+torchaudio
+transformers>=4.48.0
+librosa
+accelerate
+bitsandbytes
+scipy
